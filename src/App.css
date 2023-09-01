@@ -115,6 +115,21 @@ h1{
     color: var(--very-dark-grayish-blue);
 }
 
+.attribution {
+    display: block;
+    margin-bottom: 2em;
+    padding: 0;
+    text-align: center;
+    color: var(--very-dark-desaturated-blue);
+    font-size: 0.8rem;
+}
+  
+.attribution a {
+    text-decoration: none;
+    color: var(--soft-red);
+    font-weight: 700;
+}
+
 
 @media (min-width:900px){
 
@@ -165,6 +180,10 @@ h1{
 
     .accordion{
         width: 50%;
+    }
+
+    .attribution {
+        display: none;
     }
     
 }
