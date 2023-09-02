@@ -25,7 +25,7 @@ function AccordionItem({ question, answers }) {
       <div onClick={handleToggle}>
         <div className="faq-question">
         <p className="title">{question}</p>
-        <p className="icon">{isOpen ? "^" : "˅"}</p>
+        <p className="icon">{arrowImage}</p>
         </div>
         
         {isOpen && <div className="content-box">{answers}</div>}
