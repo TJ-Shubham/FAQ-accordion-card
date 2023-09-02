@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://github.com/TJ-Shubham/FAQ-accordion-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link](https://tj-shubham.github.io/FAQ-accordion-card/)
 
 ## My process
 
@@ -59,4 +59,4 @@ Learn props, useState and conditional rendering
 ## Author
 
 - Frontend Mentor - [TJ-Shubham](https://www.frontendmentor.io/profile/TJ-Shubham)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
