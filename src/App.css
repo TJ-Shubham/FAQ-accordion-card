@@ -97,6 +97,7 @@ h1{
 
 .rotate{
     transform: rotate(180deg);
+    color: var(--soft-red);
 }
 
 .title:hover{
