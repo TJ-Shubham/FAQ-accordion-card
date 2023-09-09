@@ -24,7 +24,7 @@ function AccordionItem({ question, answers }) {
     return (
       <div onClick={handleToggle}>
         <div className="faq-question">
-        <p className="title">{question}</p>
+        <p className="title"  style={isOpen ? {"color":"hsl(238, 29%, 16%)", "fontWeight": 700} : {}  }>{question}</p>
         <p>{arrowImage}</p>
         </div>
         
